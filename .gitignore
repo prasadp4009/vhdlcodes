@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.sv
+!*.v
+!*.md
+!*.XDC
+!*.xdc
+# etc...
+
+# ...even if they are in subdirectories
+!*/
