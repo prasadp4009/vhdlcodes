@@ -11,4 +11,7 @@
 # etc...
 
 # ...even if they are in subdirectories
-!*/
+!*/rtl
+!*/constraints
+!*/tb
+!*/sim
